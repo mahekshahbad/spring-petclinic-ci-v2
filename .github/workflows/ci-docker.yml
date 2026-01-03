@@ -1,4 +1,4 @@
-name: CI Pipeline Build & Push Docker Image (Enhanced)
+name: CI-Pipeline Build & Push Docker Image (Enhanced)
 
 on:
   push:
